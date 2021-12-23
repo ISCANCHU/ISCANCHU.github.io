@@ -5,7 +5,7 @@
 
 Head of School of Mathematics and Information Science, Nanchang Hangkong University
 
-<img src="https://github.com/ISCANCHU/ISCANCHU.github.io/raw/master/img/lb.jpg"
+<img src="https://github.com/ISCANCHU/ISCANCHU.github.io/img/pic-BoLi.pdf"
     alt="Prof. Bo Li"
     width="150px"
     height="150px">
