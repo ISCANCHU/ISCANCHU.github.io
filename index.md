@@ -22,6 +22,6 @@ Talking face (2D) & Talking mesh (3D)
 - \[July 2021\] Dr. Bin Liu defended his PhD degree from Dalian University of Technology, and joined our group !!!
 - \[June 2021\] “A Support-free Infill Structure Based on Layer Construction for 3D Printing” has been accepted for publication in IEEE Transactions on Visualization and Computer Graphics (CCF Tier A 中国计算机学会A类推荐)
 - \[Jan 2021\] Dr. Zhifen He joined our group !!! She is focused on multiview machine learning.
-- \[December 2019\] "Sparse Graph Regularized Mesh Color Edit Propagation" has been published in IEEE Transactions on Image Processing (CCF Tier A 中国计算机学会A类推荐)
+- \[April 2020\] "Sparse Graph Regularized Mesh Color Edit Propagation" has been published in IEEE Transactions on Image Processing (CCF Tier A 中国计算机学会A类推荐)
 
 
