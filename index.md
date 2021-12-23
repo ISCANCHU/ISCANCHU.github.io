@@ -1,18 +1,25 @@
-# UEA Digital Human Group (UDHG)
+# Institute of Scientific Computing and Application (ISCA)
 
-The UEA Digital Human Group is located in the School of Computer Science at The University of East Anglia, Norwich, UK.
+The ISCA Group is located in the School of Mathematics and Information Science at The University of Nanchang Hangkong University, Nanchang, China.
 
-Our work is focused on understanding and modelling human speech and motion.
+Our work is focused on computer vision and computer graphics. We are interested in
+
+Image synthesis
+
+Multimodal fusion perception
+
+Talking face (2D) & Talking mesh (3D)
 
 **[Team Members](./pages/team-members.html)**
 
 **[Publications](./pages/publication-list.html)**
 
 **News**
-- \[October 2021\] Congratulations to Jonathan on the acceptance of his paper "Motion Symmetry in Conversation" to the Late Breaking Results track of the ICCV2021 1st workshop on Crossmodal Social Animation 
-- \[July 2021\] Our recent work on speech driven body pose estimation using Flow-VAEs has been accepted to CVMP 2021. Details to follow!
-- \[June 2021\] Our work on tongue motion analysis has been accepted for presentation at Interspeech 2021. Find out more \[[here](https://salmedina.github.io/ContinuousTongueMotionAnalysis/)\]  
-- \[June 2021\] "Speaker-independent Speech Animation using Perceptual Loss Functions and Synthetic Data" has been accepted for publication in IEEE Transactions on Multimedia. For early access to the article click \[[here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9454300)\]  
-- \[December 2019\] Congratulations to Dave for winning Best Short Paper at CVMP! Find out more about this paper \[[here](./pages/joint-estimation-of-face-and-camera-pose.html)\]  
-- \[October 2019\] Sarah presented *Automatically Animating Faces* at Norwich Science Festival. Details can be found \[[here](https://norwichsciencefestival.co.uk/events/automatically-animating-faces/)\]
+- \[October 2021\] We are recruiting 6~8 master students ! 本实验室招收6～8名硕士研究生（熟练掌握一种编程语言）！
+- \[August 2021\] 1 National Natural Science Foundation of China (General Program) is funded !!! 获批国家自然科学基金面上项目1项 !!!
+- \[July 2021\] Dr. Bin Liu defended his PhD degree from Dalian University of Technology, and joined our group !!!
+- \[June 2021\] “A Support-free Infill Structure Based on Layer Construction for 3D Printing” has been accepted for publication in IEEE Transactions on Visualization and Computer Graphics (CCF Tier A 中国计算机学会A类推荐)
+- \[Jan 2021\] Dr. Zhifen He joined our group !!! She is focused on multiview machine learning.
+- \[December 2019\] "Sparse Graph Regularized Mesh Color Edit Propagation" has been published in IEEE Transactions on Image Processing (CCF Tier A 中国计算机学会A类推荐)
+
 
