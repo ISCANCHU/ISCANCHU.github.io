@@ -17,7 +17,7 @@ Talking face (2D) & Talking mesh (3D)
 **[Publications](./pages/publication-list.html)**
 
 **News**
-- \[October 2021\] We are recruiting 6~8 master students ! 本实验室招收6～8名硕士研究生（熟练掌握一种编程语言）！
+-  We are recruiting 6~8 master students ! 本实验室招收6～8名硕士研究生（熟练掌握一种编程语言）！
 - \[August 2021\] 1 National Natural Science Foundation of China (General Program) is funded !!! 获批国家自然科学基金面上项目1项 !!!
 - \[July 2021\] Dr. Bin Liu defended his PhD degree from Dalian University of Technology, and joined our group !!!
 - \[June 2021\] “A Support-free Infill Structure Based on Layer Construction for 3D Printing” has been accepted for publication in IEEE Transactions on Visualization and Computer Graphics (CCF Tier A 中国计算机学会A类推荐)
