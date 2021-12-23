@@ -1,18 +1,17 @@
 
 ## Team Members
 
-### Dr. Sarah Taylor
+### Professor  Bo Li
 
-<img src="https://github.com/UEA-digital-human-group/uea-digital-human-group.github.io/raw/master/img/sarah_headshot.jpg"
-    alt="Dr. Sarah Taylor"
+Head of School of Mathematics and Information Science, Nanchang Hangkong University
+
+<img src="https://github.com/ISCANCHU/ISCANCHU.github.io/raw/master/img/lb.jpg"
+    alt="Prof. Bo Li"
     width="150px"
     height="150px">
 
-Dr. Sarah Taylor is a Research Fellow in the School of Computing Sciences and leads the Digital Humans Group in the Graphics, Vision and Speech Laboratory. Her research interests concern analysis and synthesis of faces and bodies during speech. She has worked on projects relating to computer lip-reading, automatic redubbing of video and speech-driven facial animation.
-
-Dr. Taylor’s PhD thesis concerned identifying and formally defining units of visual speech to be used for facial animation. During her PhD studies, she completed two internships at Disney Research in Pittsburgh, USA, working on faces and speech. Following her PhD, Dr. Taylor worked as an Associate Research Scientist for two years at Disney Research.
-
-In 2015 Dr. Taylor returned to UEA to establish her own group. In 2017 She became a Lecturer in Computing Science and in 2018 achieved an EPSRC UKRI Innovation Fellowship.
+Professor Bo Li received the Ph.D. degree in computational mathematics from the Dalian University of Technology (DUT), Dalian, China, in 2008. He is currently
+a Professor, master supervisor and PhD supervisor with the School of Mathematics and Information Science, Nanchang Hangkong University. His current research interests include the areas of image processing and computer graphics. 
 
 
 ### Dr. David Greenwood
