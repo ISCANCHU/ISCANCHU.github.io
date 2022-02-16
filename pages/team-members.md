@@ -17,13 +17,14 @@ a Professor, master supervisor and PhD supervisor with the School of Mathematics
 
 She received the Ph.D. degree in Nanjing Normal University. Her research interests include multiview machine learning, computer vision and deep neural networks.
 
+### Dr. Chunhua Zhang
+
+He received the Ph.D. degree in University of Macau. His research interests include numerical PDE and nerual PDE.
+
 ### Dr. Bin Liu
 
 He received the Ph.D. degree in Dalian University of Technology. His research interests include computer graphics and computer vision.
 
-### Dr. Chunhua Zhang
-
-He received the Ph.D. degree in University of Macau. His research interests include numerical PDE and nerual PDE.
 
 ### Master students
 
