@@ -1,60 +1,82 @@
 
 ## Select Publications
 
-### 2021
-**Importance of Parasagittal Sensor Information in Tongue Motion Capture through a Diphonic Analysis**  
-Sarah Taylor*, Salvador Medina∗, Mark Tiede, Alexander Hauptmann and Iain Matthews  
-Interspeech, September 2021  
-\[[Paper](http://dx.doi.org/10.21437/Interspeech.2021-1732)\]  
-(*Equal contribution)
+ <!-- ********************** publications **********************-->        
+        <p style="clear:both">&nbsp;</p>		
+        <a class="anchor" id="publications"></a>
+        <div>
+            <h3>Publications</h3>
+            
+	    <br />
+            <br />
+	      <p>
+                <img src="pics/f1.jpg" width="300px" style="float:left; margin-right:10px">
+                <span class="pub_title">Sparse Graph Regularized Mesh Color Edit Propagation </span>
+                <br />
+                <span class="pub_authors"><u class="m">Bo Li</u>, Yu-Kun Lai, PL Rosin</span>
+                <br />
+                <span class="pub_type">IEEE Transactions on Image Processing, 2020.</span>
+                <br />
+                <b><font color="#990000"> SCI, IF: 9.34, CCF-A </font></b>  
+                <span class="pub_downloads"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043899">[paper]</a> <a href="https://doi.org/10.1109/TIP.2020.2980962">[doi]</a></span-->
+            </p>
+	    <br />
+            <br />	   
+	    <br />
+            <br />
+		
+		
+	      <p>
+                <img src="pics/wrong_match.jpg" width="300px" style="float:left; margin-right:10px">
+                <span class="pub_title">Automatic Example-based Image Colourisation using Location-Aware Cross-Scale Matching </span>
+                <br />
+                <span class="pub_authors"><u class="m">Bo Li</u>, Yu-Kun Lai, M John, PL Rosin</span>
+                <br />
+                <span class="pub_type">IEEE Transactions on Image Processing, 2019.</span>
+                <br />
+                <b><font color="#990000"> SCI, IF: 9.34, CCF-A </font></b>  
+                <span class="pub_downloads"><a href="https://ieeexplore.ieee.org/iel7/83/4358840/08699109.pdf">[paper]</a> <a href="http://dx.doi.org/10.1109/TIP.2017.2760510">[doi]</a></span-->
+            </p>
+            <br />
+            <br />
+              <p>
+                <img src="pics/im-lrr.png" width="300px" style="float:left; margin-right:10px">
+                <span class="pub_title">Online low-rank representation learning for joint multi-subspace recovery and clustering </span>
+                <br />
+                <span class="pub_authors"><u class="m">Bo Li</u>, Risheng Liu, Junjie Cao, Jie Zhang, Yu-Kun Lai, Xiuping Liu</span>
+                <br />
+                <span class="pub_type">IEEE Transactions on Image Processing, vol. 27(1), pp. 335-348, 2018.</span>
+                <br />
+                <b><font color="#990000"> SCI, IF: 9.34, CCF-A </font></b>  
+                <span class="pub_downloads"><a href="https://users.cs.cf.ac.uk/Yukun.Lai/papers/TIP_LRR.pdf">[paper]</a> <a href="http://dx.doi.org/10.1109/TIP.2017.2760510">[doi]</a></span-->
+            </p>
+            <br />
+            <br />
 
-**Speaker-independent Speech Animation using Perceptual Loss Functions and Synthetic Data**  
-Danny Websdale, Sarah Taylor and Ben Milner  
-IEEE Transactions on Multimedia  
-\[[Early Access Paper](https://ieeexplore.ieee.org/abstract/document/9454300)\]
+			<p>
+                <img src="pics/im-sparse-colorization.png" width="300px" style="float:left; margin-right:10px">
+                <span class="pub_title">Example-based image colorization using locality consistent sparse representation </span>
+                <br />
+                <span class="pub_authors"><u class="m">Bo Li</u>, Fuchen Zhao, Zhuo Su, Xiangguo Liang, Yu-Kun Lai, Paul L. Rosin</span>
+                <br />
+                <span class="pub_type">IEEE Transactions on Image Processing, vol. 26(11), 5188-5202, 2017.</span>
+                <br />
+                <b><font color="#990000"> SCI, IF: 9.34, CCF-A </font></b>  
+                <span class="pub_downloads"><a href="https://users.cs.cf.ac.uk/Yukun.Lai/papers/TIP_Sparse_Colorization.pdf">[paper]</a></span-->
+            </p>
+            <br />
+            <br />
 
-
-### 2019
-\*BEST SHORT PAPER AWARD\*  
-**Joint Estimation of Face and Camera Pose** (Short paper and poster)  
-David Greenwood, Sarah Taylor and Iain Matthews  
-CVMP, December 2019  
-\[[Project page](/pages/joint-estimation-of-face-and-camera-pose.html)\]
-
-**Synthesising Visual Speech using Dynamic Visemes and Deep Learning Architectures**  
-Ausdang Thangthai, Ben Milner, Sarah Taylor  
-Computer Speech & Language, May 2019  
-\[[Paper](https://ueaeprints.uea.ac.uk/id/eprint/68990/1/AAM_Thangthai_etal.pdf)\]
-
-### 2018
-**Joint Learning of Facial Expression and Head Pose from Speech**  
-David Greenwood, Iain Matthews, and Stephen Laycock  
-Interspeech, September 2018  
-\[[Paper](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2587.pdf)\]
-
-**The Effect of Real-Time Constraints on Automatic Speech Animation**  
-Danny Websdale, Sarah Taylor, Ben Milner  
-Interspeech, September 2018  
-\[[Paper](https://ueaeprints.uea.ac.uk/id/eprint/71940/1/2066.pdf)\]
-
-### 2017
-**A Deep Learning Approach for Generalized Speech Animation**  
-Sarah L. Taylor, Taehwan Kim, Yisong Yue, Moshe Mahler, James Krahe, Anastasio Garcia Rodriguez, Jessica Hodgins, and Iain Matthews  
-ACM Transactions on Graphics (Proc. ACM SIGGRAPH), August 2017  
-\[[Paper](https://dl.acm.org/doi/pdf/10.1145/3072959.3073699)\] \[[Supplementary Movie](https://www.youtube.com/watch?v=GwV1n8v_bpA)\]
-
-**Predicting Head Pose in Dyadic Conversation**  
-David Greenwood, Stephen Laycock, and Iain Matthews  
-Intelligent Virtual Agents, August 2017  
-\[[Paper](https://ueaeprints.uea.ac.uk/id/eprint/64845/1/IVA_camera_ready1.pdf)\]
-
-**Predicting Head Pose from Speech with a Conditional Variational Autoencoder**  
-David Greenwood, Stephen Laycock, and Iain Matthews  
-Interspeech, August 2017  
-\[[Paper](https://ueaeprints.uea.ac.uk/id/eprint/64846/1/greenwood_Interspeech.pdf)\]
-
-### 2016
-**Audio-to-Visual Speech Conversion Using Deep Neural Networks**  
-S Taylor, A Kato, I Matthews, B Milner  
-Interspeech, September 2016  
-\[[Paper](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/0483.PDF)\]
+            <p>
+                <img src="pics/im-normal-tvcg.jpg" width="300px" style="float:left; margin-right:10px">
+                <span class="pub_title">Multi-Normal Estimation via Pair Consistency Voting </span>
+                <br />
+                <span class="pub_authors">Jie Zhang, Junjie Cao, Xiuping Liu, He Chen, <u class="m">Bo Li</u>, Ligang Liu.</span>
+                <br />
+                <span class="pub_type">IEEE Transactions on Visualization and Computer Graphics, to appear.</span>
+                <br />
+                <b><font color="#990000"> SCI, IF: 4.558, CCF-A </font></b>  
+                <span class="pub_downloads"><a href="https://ieeexplore.ieee.org/document/8340177/">[paper]</a></span-->
+            </p>
+            <br />
+            <br />
