@@ -1,6 +1,6 @@
 ## Select Publications
 
-** A Support-free Infill Structure Based on Layer Construction for 3D Printing**
+**A Support-free Infill Structure Based on Layer Construction for 3D Printing**
 Xu W, Liu Y, Yu M, Wang D, Hou S, Li B, Wang W, Liu L.
 IEEE Transactions on Visual and Computer Graphics, 2021 June. CCF-A类推荐
 \[[Paper](doi: 10.1109/TVCG.2021.3091509)\]  
