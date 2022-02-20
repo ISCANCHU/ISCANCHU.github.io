@@ -6,11 +6,11 @@ The ISCA Group is located in the School of Mathematics and Information Science a
 
 Our work is focused on computer vision and computer graphics. We are interested in
 
-Image synthesis
+Image synthesis: Generative models (GANs, Flows, DDPM)
 
-Multimodal fusion perception
+Multimodal fusion perception: Audio, Text, Image, Mesh
 
-Talking face (2D) & Talking mesh (3D)
+Virtual digital human: Talking face (2D) & Talking mesh (3D)
 
 **[Team Members](./pages/team-members.html)**
 
