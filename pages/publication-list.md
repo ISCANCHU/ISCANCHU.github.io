@@ -1,14 +1,14 @@
 ## Select Publications
 
 **VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge**
-Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai
 
+Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai
 arXiv:2205.07680
 \[[Paper](https://arxiv.org/pdf/2205.07680)\]  
 
 **Lightweight Text-Driven Image Editing with Disentangled Content and Attributes**
-Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai
 
+Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai
 submitted to IEEE Transactions on Image Processing
 
 **A Support-free Infill Structure Based on Layer Construction for 3D Printing**
