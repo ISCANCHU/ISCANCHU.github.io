@@ -13,10 +13,14 @@ Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai
 
 submitted to IEEE Transactions on Image Processing
 
-**Adaptive and propagated mesh filtering**
+**Controllable facial attribute editing via Gaussian mixture model disentanglement**  
+Bo Li, Shu-Hai Deng, Bin Liu, Yike Li, Zhi-Fen He, Yu-Kun Lai, Congxuan Zhang, Zhen Chen.  
+Digital Signal Processing, 2023-04.
+\[[Paper](DOI: 10.1016/j.dsp.2023.103916)\]  
 
-Bin Liu, Bo Li, Junjie Cao, Weiming Wang, Xiuping Liu
-Computer-Aided Design, 2023-01.
+**Adaptive and propagated mesh filtering**    
+Bin Liu, Bo Li, Junjie Cao, Weiming Wang, Xiuping Liu.    
+Computer-Aided Design, 2023-01.  
 \[[Paper](doi: 10.1016/j.cad.2022.103422)\]  
 
 **A Support-free Infill Structure Based on Layer Construction for 3D Printing**
