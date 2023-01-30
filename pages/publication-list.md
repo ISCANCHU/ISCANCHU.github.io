@@ -13,6 +13,12 @@ Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai
 
 submitted to IEEE Transactions on Image Processing
 
+**Adaptive and propagated mesh filtering**
+
+Bin Liu, Bo Li, Junjie Cao, Weiming Wang, Xiuping Liu
+Computer-Aided Design, 2023-01.
+\[[Paper](doi: 10.1016/j.cad.2022.103422)\]  
+
 **A Support-free Infill Structure Based on Layer Construction for 3D Printing**
 
 Xu W, Liu Y, Yu M, Wang D, Hou S, Li B, Wang W, Liu L.
