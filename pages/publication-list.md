@@ -9,7 +9,7 @@ Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai. submitted to IEEE Transactions
 
 **Controllable facial attribute editing via Gaussian mixture model disentanglement**  
 Bo Li, Shu-Hai Deng, Bin Liu, Yike Li, Zhi-Fen He, Yu-Kun Lai, Congxuan Zhang, Zhen Chen.    
-Digital Signal Processing, 2023-04. \[[Paper](DOI: 10.1016/j.dsp.2023.103916)\]  
+Digital Signal Processing, 2023-04. \[[Paper](DOI: 10.1016/j.dsp.2023.103916)\] \[[code](https://drive.google.com/file/d/1ssnYEXyLjaNvLc_hL214rv0rKxEZKeqF/view?usp=share_link)\]      
 
 **Adaptive and propagated mesh filtering**    
 Bin Liu, Bo Li, Junjie Cao, Weiming Wang, Xiuping Liu.    
