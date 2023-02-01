@@ -13,7 +13,7 @@ Digital Signal Processing, 2023-04. \[[Paper](DOI: 10.1016/j.dsp.2023.103916)\] 
 
 **Adaptive and propagated mesh filtering**    
 Bin Liu, Bo Li, Junjie Cao, Weiming Wang, Xiuping Liu.    
-Computer-Aided Design, 2023-01. \[[Paper](doi: 10.1016/j.cad.2022.103422)\]  
+Computer-Aided Design, 2023-01. \[[Paper](doi: 10.1016/j.cad.2022.103422)\] \[[code](https://github.com/nyliubin/AdaptivePropagatedMeshFiltering)\]  
 
 **Neural Subspace Learning for Surface Defect Detection**  
 Bin Liu; Weifeng Chen; Bo Li; Xiuping Liu.  
