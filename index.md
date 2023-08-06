@@ -18,6 +18,7 @@ Virtual digital human: Talking face (2D) & Talking mesh (3D)
 
 **News**
 -  <font color=red size=5 > One paper is accepted by CVPR 2023 ！</font>
+-  <font color=red size=4 > One paper is accepted by IEEE Transactions on Multimedia ！</font>
 -  We are recruiting 6~8 master students ! Please send your resume to <libonchu@outlook.com>. <font color=red size=4 >本实验室招收6～8名硕士研究生（熟练掌握一种编程语言）！</font> 招生信息 <http://dscx.yjs.nchu.edu.cn/homepage/174.html>
 - \[August 2021\] 1 National Natural Science Foundation of China (General Program) is funded !!! 获批国家自然科学基金面上项目1项 !!!
 - \[July 2021\] Dr. Bin Liu defended his PhD degree from Dalian University of Technology, and joined our group !!!
