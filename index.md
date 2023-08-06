@@ -17,6 +17,7 @@ Virtual digital human: Talking face (2D) & Talking mesh (3D)
 **[Publications](./pages/publication-list.html)**
 
 **News**
+-  <font color=red size=5 > 李波入选“赣鄱俊才-主要学科学术和技术带头人培养项目（领军人才）”
 -  <font color=red size=5 > One paper is accepted by CVPR 2023 ！</font>
 -  <font color=red size=4 > One paper is accepted by IEEE Transactions on Multimedia ！</font>
 -  We are recruiting 6~8 master students ! Please send your resume to <libonchu@outlook.com>. <font color=red size=4 >本实验室招收6～8名硕士研究生（熟练掌握一种编程语言）！</font> 招生信息 <http://dscx.yjs.nchu.edu.cn/homepage/174.html>
