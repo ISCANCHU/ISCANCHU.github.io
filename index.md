@@ -17,7 +17,7 @@ Virtual digital human: Talking face (2D) & Talking mesh (3D)
 **[Publications](./pages/publication-list.html)**
 
 **News**
--  <font color=blue size=4 > One paper is accepted by IEEE Transactions on Visual and Computer Graphics（TVCG，CCF-A）！”
+-  <font color=blue size=4 > One paper is accepted by IEEE Transactions on Visual and Computer Graphics（TVCG，CCF-A）！
 -  <font color=red size=4 > 李波入选“赣鄱俊才-主要学科学术和技术带头人培养项目（领军人才）”
 -  <font color=red size=4 > One paper is accepted by CVPR 2023 （CCF-A） ！</font>
 -  <font color=red size=4 > One paper is accepted by IEEE Transactions on Multimedia ！</font>
