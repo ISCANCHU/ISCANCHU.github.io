@@ -2,20 +2,23 @@
 
 **VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge**  
 Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai  
-CVPR2023 \[[Paper](https://arxiv.org/pdf/2205.07680)\]  
+CVPR2023 \[[Paper](https://arxiv.org/pdf/2205.07680)\]  CCF A Tier, TOP 
+
+**Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention**
+Bo Li, Xiaolin Wei, Bin Liu, Zhifen He, Junjie Cao, Yu-Kun Lai，IEEE Transactions on Visual and Computer Graphics，Accepted. CCF A Tier, TOP
 
 **Lightweight Text-Driven Image Editing with Disentangled Content and Attributes**  
-Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai. IEEE Transactions on Multimedia,  \[[Paper](doi.org/10.1109/TMM.2023.3289755)\] 
+Bo Li, Xiao Lin, Bin Liu, Zhi-Fen He, Yu-Kun Lai. IEEE Transactions on Multimedia,  \[[Paper](doi.org/10.1109/TMM.2023.3289755)\] CCF A Tier, TOP
   
 
 **Adaptive and propagated mesh filtering**    
 Bin Liu, Bo Li, Junjie Cao, Weiming Wang, Xiuping Liu.    
-Computer-Aided Design, 2023-01. \[[Paper](doi: 10.1016/j.cad.2022.103422)\] \[[code](https://github.com/nyliubin/AdaptivePropagatedMeshFiltering)\]  
+Computer-Aided Design, 2023-01. \[[Paper](doi: 10.1016/j.cad.2022.103422)\] \[[code] (https://github.com/nyliubin/AdaptivePropagatedMeshFiltering)\]  
 
 
 **Label recovery and label correlation co-learning for multi-view multi-label classification with incomplete labels**   
 Zhi-Fen He, Chun Zhang, Bin Liu, Bo Li.    
-Applied Intelligence, 2022-08-09. \[[Paper](DOI: 10.1007/s10489-022-03945-y)\]
+Applied Intelligence, 2022-08-09. \[[Paper](DOI: 10.1007/s10489-022-03945-y)\] 
 
 **A Support-free Infill Structure Based on Layer Construction for 3D Printing**  
 Xu W, Liu Y, Yu M, Wang D, Hou S, Li B, Wang W, Liu L.  
